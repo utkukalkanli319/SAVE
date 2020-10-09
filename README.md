@@ -1,11 +1,15 @@
 # SAVE
+
+## Course Information
 CS491-CS492 Senior Project
-#Project Members
+### Group Members
+```
 Elif Demir
 Utku Kalkanlı
 Büşra Ünver
 Münevver Uslukılıç
 Celal Bayraktar
+```
 
-Supervisor
+### Supervisor
 Dr. Hamdi Dibeklioğlu
