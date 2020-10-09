@@ -6,3 +6,6 @@ Utku Kalkanlı
 Büşra Ünver
 Münevver Uslukılıç
 Celal Bayraktar
+
+Supervisor
+Dr. Hamdi Dibeklioğlu
