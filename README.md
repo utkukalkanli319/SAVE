@@ -26,4 +26,5 @@ Dr. Hamdi Dibeklioğlu
 Bora Güngören
 
 ### Files
+* [Project Specifications](https://github.com/utkukalkanli319/SAVE/blob/main/Save.Project.Specifications.Fall2020.pdf)
 * [Analysis Report](https://github.com/utkukalkanli319/SAVE/blob/main/Save.Analysis.Report.Fall2020.pdf)
