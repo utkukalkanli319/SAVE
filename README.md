@@ -29,3 +29,5 @@ Bora Güngören
 * [Project Specifications](https://github.com/utkukalkanli319/SAVE/blob/main/Save.Project.Specifications.Fall2020.pdf)
 * [Analysis Report](https://github.com/utkukalkanli319/SAVE/blob/main/Save.Analysis.Report.Fall2020.pdf)
 * [High Level Design Report](https://github.com/utkukalkanli319/SAVE/blob/main/Save.High.Level.Design.Fall2020.pdf)
+* [Low Level Design Report](https://github.com/utkukalkanli319/SAVE/blob/main/Save.Low.Level.Design.Spring2021.pdf)
+
